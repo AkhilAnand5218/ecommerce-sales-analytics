@@ -88,11 +88,9 @@ Load visuals and interact using slicers for year and category.
 
 📸 Dashboard Preview
 
-<img width="1920" height="1020" alt="Screenshot 2025-10-31 171851" src="https://github.com/user-attachments/assets/c3add02e-fe46-4a91-8ad5-0f74e8032330" />
 
 
-
-
+<img width="1243" height="700" alt="Screenshot 2025-10-31 171851" src="https://github.com/user-attachments/assets/f23fdf20-386e-4061-ba0f-d18cf10546c4" />
 
 
 
