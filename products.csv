@@ -1,0 +1,101 @@
+product_id,product_name,category,price
+1,Product_1,Fashion,1961.52
+2,Product_2,Electronics,30118.03
+3,Product_3,Electronics,25631.05
+4,Product_4,Electronics,67166.27
+5,Product_5,Groceries,3967.33
+6,Product_6,Fashion,239.6
+7,Product_7,Accessories,3510.75
+8,Product_8,Fashion,3806.26
+9,Product_9,Accessories,2298.15
+10,Product_10,Electronics,72487.43
+11,Product_11,Electronics,20622.73
+12,Product_12,Fashion,2766.58
+13,Product_13,Home & Kitchen,2662.47
+14,Product_14,Electronics,62138.58
+15,Product_15,Fashion,1540.7
+16,Product_16,Electronics,19227.47
+17,Product_17,Home & Kitchen,2312.71
+18,Product_18,Electronics,66967.68
+19,Product_19,Accessories,3024.02
+20,Product_20,Electronics,50630.0
+21,Product_21,Home & Kitchen,1247.59
+22,Product_22,Fashion,1491.8
+23,Product_23,Electronics,49261.8
+24,Product_24,Fashion,2874.79
+25,Product_25,Fashion,3338.64
+26,Product_26,Electronics,41974.07
+27,Product_27,Groceries,385.01
+28,Product_28,Home & Kitchen,2743.21
+29,Product_29,Home & Kitchen,2793.05
+30,Product_30,Accessories,4379.32
+31,Product_31,Electronics,50926.53
+32,Product_32,Groceries,1305.57
+33,Product_33,Electronics,28696.09
+34,Product_34,Electronics,27715.24
+35,Product_35,Electronics,61765.81
+36,Product_36,Groceries,710.38
+37,Product_37,Groceries,2752.77
+38,Product_38,Fashion,4160.4
+39,Product_39,Accessories,4906.01
+40,Product_40,Accessories,3195.51
+41,Product_41,Fashion,362.35
+42,Product_42,Accessories,281.22
+43,Product_43,Fashion,266.84
+44,Product_44,Fashion,4434.66
+45,Product_45,Groceries,4670.19
+46,Product_46,Home & Kitchen,2021.21
+47,Product_47,Home & Kitchen,2393.33
+48,Product_48,Electronics,60312.62
+49,Product_49,Fashion,1466.25
+50,Product_50,Electronics,69290.7
+51,Product_51,Groceries,1402.42
+52,Product_52,Groceries,2212.91
+53,Product_53,Accessories,3742.21
+54,Product_54,Accessories,1761.28
+55,Product_55,Fashion,2506.21
+56,Product_56,Accessories,1900.0
+57,Product_57,Home & Kitchen,1370.27
+58,Product_58,Electronics,58221.09
+59,Product_59,Electronics,34562.45
+60,Product_60,Fashion,2750.1
+61,Product_61,Groceries,557.86
+62,Product_62,Groceries,3321.55
+63,Product_63,Groceries,2257.28
+64,Product_64,Accessories,916.56
+65,Product_65,Accessories,1822.58
+66,Product_66,Electronics,58199.79
+67,Product_67,Groceries,3093.51
+68,Product_68,Accessories,1445.32
+69,Product_69,Electronics,6188.28
+70,Product_70,Accessories,1880.22
+71,Product_71,Fashion,4766.31
+72,Product_72,Fashion,4250.91
+73,Product_73,Accessories,270.51
+74,Product_74,Electronics,19032.43
+75,Product_75,Groceries,1842.65
+76,Product_76,Home & Kitchen,210.31
+77,Product_77,Fashion,3411.36
+78,Product_78,Groceries,1891.47
+79,Product_79,Electronics,45998.96
+80,Product_80,Home & Kitchen,1866.4
+81,Product_81,Groceries,3265.33
+82,Product_82,Fashion,4804.57
+83,Product_83,Electronics,58906.85
+84,Product_84,Accessories,2636.95
+85,Product_85,Home & Kitchen,632.92
+86,Product_86,Groceries,3534.99
+87,Product_87,Fashion,4982.01
+88,Product_88,Groceries,3485.2
+89,Product_89,Accessories,1080.87
+90,Product_90,Fashion,4271.49
+91,Product_91,Accessories,946.02
+92,Product_92,Accessories,4986.59
+93,Product_93,Groceries,3355.81
+94,Product_94,Electronics,44089.77
+95,Product_95,Groceries,4462.09
+96,Product_96,Fashion,3573.46
+97,Product_97,Fashion,3978.8
+98,Product_98,Home & Kitchen,1160.0
+99,Product_99,Fashion,3970.73
+100,Product_100,Fashion,3962.35
