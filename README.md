@@ -32,11 +32,7 @@ Time period: 2022–2025
 
 Total revenue by year and month
 
-Top 5 customers and products by revenue
-
 Category-wise and region-wise performance
-
-Average order value and repeat purchase rate
 
 Most used payment methods
 
