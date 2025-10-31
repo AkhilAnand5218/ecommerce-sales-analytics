@@ -30,10 +30,9 @@ Time period: 2022–2025
 
 🧩 SQL Analysis Highlights
 
-Total revenue by year and month
-
+Total revenue 
 Category-wise and region-wise performance
-
+Time trends
 Most used payment methods
 
 
