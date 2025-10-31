@@ -88,6 +88,7 @@ Load visuals and interact using slicers for year and category.
 
 📸 Dashboard Preview
 
+<img width="1920" height="1020" alt="Screenshot 2025-10-31 171851" src="https://github.com/user-attachments/assets/c3add02e-fe46-4a91-8ad5-0f74e8032330" />
 
 
 
@@ -165,12 +166,3 @@ Load visuals and interact using slicers for year and category.
 
 
 
-
-
-
-👨‍💻 Author
-
-Akhil Anand T
-📍 Thrissur, Kerala, India
-🎓 B.Com Graduate | Data Analyst
-🔗 LinkedIn Profile
