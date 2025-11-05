@@ -19,7 +19,7 @@ Tools: Excel (for data cleaning), Power BI Desktop
 
 🗃️ Dataset
 
-Total records: 5,00+
+Total records: 5,000+
 
 Tables: customers, products, and sales
 
